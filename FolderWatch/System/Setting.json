@@ -1,0 +1,4 @@
+﻿{
+  // 監視対象フォルダ
+  "TargetDir": "C:\\FolderWatch\\Target"
+}
